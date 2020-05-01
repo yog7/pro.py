@@ -10,6 +10,5 @@ while(n>0):
 if(spare==rev):
     print("The number is a palindrome")
 else:
-    print("The number isn't a palindromegit push --set-upstream pro.py master
-")
+    print("The number isn't a palindrome")
 
